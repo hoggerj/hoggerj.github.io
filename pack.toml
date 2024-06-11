@@ -1,0 +1,13 @@
+name = "New Mods"
+author = "hogger97"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f55664bf4218535b6b660eb85543ab303827aa9f3908de98dccb003a52cb6154"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.4"
